@@ -45,7 +45,7 @@ Control history by pushing actions:
 ```javascript
 import { push, replace, go, goBack, goForward } from 'microcosm-react-router'
 
-repo.push(pushState, '/')
+repo.push(push, '/')
 
 repo.push(goBack)
 ```
