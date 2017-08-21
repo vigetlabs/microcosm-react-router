@@ -14,12 +14,11 @@ inspired by [`react-router-redux`](https://github.com/ReactTraining/react-router
 ```shell
 npm install --save microcosm-react-router
 npm install --save history
-npm install --save react-router
 ```
 
 ## Setup
 
-microcosm-react-router is implimented through Domains:
+microcosm-react-router is implemented through a `Location` domain:
 
 ```javascript
 import createBrowserHistory from 'history/createBrowserHistory'
