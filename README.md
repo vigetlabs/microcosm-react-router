@@ -1,4 +1,4 @@
-# Microcosm React
+# Microcosm ReactRouter
 
 **This project has moved!** Microcosm is now a mono-repo project. Check out the package here:
 
